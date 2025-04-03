@@ -34,14 +34,4 @@ Explore the live demo of Argon Admin Dashboard [here](https://argon-admin-dashbo
 ![Light Mode](https://res.cloudinary.com/duxego3ja/image/upload/v1709215626/argon-admin-dashboard/qf006k0kwkhrgmefengy.png)
 
 
-## Contributions and Feedback
 
-We welcome contributions and feedback from the community to enhance and improve Argon Admin Dashboard further. Feel free to submit pull requests or open issues for any suggestions or bug reports.
-
-## Free to Use
-
-Argon Admin Dashboard is open-source and completely free to use. Download it, customize it, and streamline your operations with ease.
-
-**Keywords:** React.js, Vite, Material UI, Admin Dashboard, Dark Mode, Light Mode, Data Management, Team Management, Calendar, Charts, Formik, Yup, Open Source.
-
-**Enjoy building awesome projects with Argon Admin Dashboard!**
